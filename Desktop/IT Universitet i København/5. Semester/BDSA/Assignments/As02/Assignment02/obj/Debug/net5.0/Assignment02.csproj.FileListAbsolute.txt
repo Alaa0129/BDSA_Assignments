@@ -1,0 +1,16 @@
+C:\Users\Bruger\desktop\IT Universitet i København\5. Semester\BDSA\Assignments\As02\AS02\Assignment02\bin\Debug\net5.0\Assignment02.exe
+C:\Users\Bruger\desktop\IT Universitet i København\5. Semester\BDSA\Assignments\As02\AS02\Assignment02\bin\Debug\net5.0\Assignment02.deps.json
+C:\Users\Bruger\desktop\IT Universitet i København\5. Semester\BDSA\Assignments\As02\AS02\Assignment02\bin\Debug\net5.0\Assignment02.runtimeconfig.json
+C:\Users\Bruger\desktop\IT Universitet i København\5. Semester\BDSA\Assignments\As02\AS02\Assignment02\bin\Debug\net5.0\Assignment02.runtimeconfig.dev.json
+C:\Users\Bruger\desktop\IT Universitet i København\5. Semester\BDSA\Assignments\As02\AS02\Assignment02\bin\Debug\net5.0\Assignment02.dll
+C:\Users\Bruger\desktop\IT Universitet i København\5. Semester\BDSA\Assignments\As02\AS02\Assignment02\bin\Debug\net5.0\ref\Assignment02.dll
+C:\Users\Bruger\desktop\IT Universitet i København\5. Semester\BDSA\Assignments\As02\AS02\Assignment02\bin\Debug\net5.0\Assignment02.pdb
+C:\Users\Bruger\desktop\IT Universitet i København\5. Semester\BDSA\Assignments\As02\AS02\Assignment02\obj\Debug\net5.0\Assignment02.csprojAssemblyReference.cache
+C:\Users\Bruger\desktop\IT Universitet i København\5. Semester\BDSA\Assignments\As02\AS02\Assignment02\obj\Debug\net5.0\Assignment02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bruger\desktop\IT Universitet i København\5. Semester\BDSA\Assignments\As02\AS02\Assignment02\obj\Debug\net5.0\Assignment02.AssemblyInfoInputs.cache
+C:\Users\Bruger\desktop\IT Universitet i København\5. Semester\BDSA\Assignments\As02\AS02\Assignment02\obj\Debug\net5.0\Assignment02.AssemblyInfo.cs
+C:\Users\Bruger\desktop\IT Universitet i København\5. Semester\BDSA\Assignments\As02\AS02\Assignment02\obj\Debug\net5.0\Assignment02.csproj.CoreCompileInputs.cache
+C:\Users\Bruger\desktop\IT Universitet i København\5. Semester\BDSA\Assignments\As02\AS02\Assignment02\obj\Debug\net5.0\Assignment02.dll
+C:\Users\Bruger\desktop\IT Universitet i København\5. Semester\BDSA\Assignments\As02\AS02\Assignment02\obj\Debug\net5.0\ref\Assignment02.dll
+C:\Users\Bruger\desktop\IT Universitet i København\5. Semester\BDSA\Assignments\As02\AS02\Assignment02\obj\Debug\net5.0\Assignment02.pdb
+C:\Users\Bruger\desktop\IT Universitet i København\5. Semester\BDSA\Assignments\As02\AS02\Assignment02\obj\Debug\net5.0\Assignment02.genruntimeconfig.cache
